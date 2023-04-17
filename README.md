@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Thiago Rosa e sou completamente apaixonado por tecnologia. Neste momento estou em transição de carreira e estudando para ser em breve um Desenvolvedor Web 😎
+Meu nome é Thiago Rosa e sou completamente apaixonado por tecnologia. Neste momento estou em transição de carreira e estudando para ser em breve um Desenvolvedor Web sunglasses
 
-Atualmente estudo no Senac e Trybe, uma Startup que está revolucionando a educação e formando pessoas para profissões do futuro.
+Atualmente estudo no Senac e tenho estudado com o os videos do Gustavo Guanabara. Também já fiz um periodo de curso na Trybe, uma Startup que está revolucionando a educação e formando pessoas para profissões do futuro.
 
 <br>
 
@@ -28,8 +28,9 @@ Atualmente estudo no Senac e Trybe, uma Startup que está revolucionando a educa
 
 <!-- REDES SOCIAIS -->
 <div align="center">
+  
   <a href="https://instagram.com/thiagorcon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/thiago-rosa-831181105" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/thiagorcon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:thiagorcon@hotmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=thiagorcon)
