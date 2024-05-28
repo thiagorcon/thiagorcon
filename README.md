@@ -2,7 +2,7 @@
 
 Meu nome é Thiago Rosa e sou completamente apaixonado por tecnologia. Neste momento estou em transição de carreira e estudando para ser em breve um Desenvolvedor.
 
-Atualmente estudo na Labenu, já estudei no Senac e tenho estudado com os videos do Gustavo Guanabara e na plataforma do eucurso. Também já fiz um periodo de curso na Trybe.
+Atualmente estudo na Kenzie, mas já estudei no Senac, na Trybe e na Labenu e tenho estudado com os videos do Gustavo Guanabara e na plataforma do eucurso. 
 
 <br>
 
